@@ -22,6 +22,8 @@ thus a temperature monitor would be useful as well.
 
 ![](ex1_sw_block_diagram.png)
 
+![](ex1_hoc_diagram.png)
+
 ## Considerations
 
 ### Object detection and range finding

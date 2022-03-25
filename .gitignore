@@ -1,2 +1,5 @@
 # Exercises come as pdfs, no need to track them
 *.pdf
+
+# Ignore the draw.io bkup files
+*.drawio.bkp
